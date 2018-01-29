@@ -5,7 +5,7 @@ import java.util.List;
 import cn.bdqn.entity.FinancingProduct;
 
 /**
- * 产品服务类
+ * 产品服务
  * @author Administrator
  *
  */
