@@ -2,11 +2,12 @@
 SQLyog Ultimate v11.24 (32 bit)
 MySQL - 5.5.54 : Database - financingproductsys
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
-/*!40101 SET SQL_MODE=''*/;
+/*!40101 SET SQL_MOD=''*/;
 
 /*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
