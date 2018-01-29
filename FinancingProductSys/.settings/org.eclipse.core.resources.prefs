@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/cn/bdqn/dao/BaseDao.java=gbk
+encoding//src/cn/bdqn/dao/FinancingProductDao.java=UTF-8
+encoding//src/cn/bdqn/dao/impl=UTF-8
+encoding//src/cn/bdqn/dao/impl/FinancingProductDaoImpl.java=UTF-8
+encoding//src/cn/bdqn/entity=UTF-8
+encoding//src/cn/bdqn/service/FinancingProductService.java=UTF-8
+encoding//src/cn/bdqn/service/impl/FinancingProductServiceImpl.java=UTF-8
+encoding//src/cn/bdqn/servlet/FinancingproductServlet.java=UTF-8
+encoding//src/cn/bdqn/util/DatabaseUtil.java=GBK
+encoding/<project>=GBK
